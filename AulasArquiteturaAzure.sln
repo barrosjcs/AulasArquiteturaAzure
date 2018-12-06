@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CognitiveService", "CognitiveService\CognitiveService.csproj", "{77202693-8136-46DB-AAFE-496CD04FC9D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingResource", "BingResource\BingResource.csproj", "{C8AA24B1-268C-4615-9BEC-AEAC2A74DF72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bing", "BingResource\Bing.csproj", "{C8AA24B1-268C-4615-9BEC-AEAC2A74DF72}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureSearch", "AzureSearch\AzureSearch.csproj", "{D332337A-5418-4BC4-B191-11EE31F16520}"
 EndProject
